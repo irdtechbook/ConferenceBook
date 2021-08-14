@@ -149,7 +149,7 @@ https://twitter.com/hbstudy
 
 [^agilejapan]: Agile Japan 2021年11月16-17日開催。https://2021.agilejapan.jp/
 
-![Agilejapan 2021](images/chap-organizer/expo.jpg?scale=0.5)
+![Agilejapan 2021](images/chap-organizer/expo.jpg)
 
 #### -アジャイルのカンファレンスを2つ運営されているんですね。
 
