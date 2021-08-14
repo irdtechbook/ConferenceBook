@@ -16,7 +16,7 @@
 
 学びを最大化していく上で、ナレッジマネジメントの枠組みである"SECIモデル"をベースに解説していきます。このSECIモデルというものは、「失敗の本質」などの著作や、スクラムの元となった論文"new new product development game"で知られる野中郁次郎教授により提唱されたモデルです。
 
-![SECIモデル](images/chap-on-the-day/SECImodel.png)
+![SECIモデル](images/chap-on-the-day/SECImodel.jpg)
 
 個人が持つ暗黙的な知識、暗黙知が以下のような4つの変換プロセスを経て集団や組織の集合知へと発展してゆく、という考え方です。
 
@@ -28,7 +28,7 @@
 ### セッションでいかに学ぶか
 
 いうなれば、個々のセッションはスピーカーそれぞれの現場で共同化された暗黙知が表出化したものになります。そして、セッションに参加する立場の人間は、まずその形式知を自分なりに理解し解釈すること、換言すると「内面化する」ことから始めます。セッション聴講時のSECIモデルの起点は次の図で示すように「内面化」になります。
-![セッションで学ぶプロセス](images/chap-on-the-day/learning_in_session.png)
+![セッションで学ぶプロセス](images/chap-on-the-day/learning_in_session.jpg)
 
 #### 知らないキーワードが飛び交う場では内面化に集中する
 
@@ -36,7 +36,7 @@
 
 さて、それではこの「知らないということを知っている」状態で参加した場合には、どのように行動することが学びの最大化につながるのでしょうか。私は「内面化に全集中」することをお勧めします。
 
-![内面化に全集中](images/chap-on-the-day/internalization.png)
+![内面化に全集中](images/chap-on-the-day/internalization.jpg)
 
 チャットのワイガヤ、誰かがまとめてくれたセッションの概要、まとめ記事。これら全てがインプット源になります。そしてもうひとつ大切なのが、自分自身でメモを取ること。耳慣れないキーワードについてもとりあえずメモに記載しておき、のちほど調査しましょう。（運がよければ、チャットで誰かが解説してくれていることもあります。）
 
@@ -46,7 +46,7 @@
 
 [^obsidianblog]: ナレッジ管理をObsidianに移行してみた https://blog.mamansoft.net/2021/01/16/use-obsidian-so-that-manage-knowledge/
 
-![筆者によるRegional Gathering Scrum Tokyo 2021参加レポートのグラフビュー](images/chap-on-the-day/rsgt_knowledge_nw.png)
+![筆者によるRegional Gathering Scrum Tokyo 2021参加レポートのグラフビュー](images/chap-on-the-day/rsgt_knowledge_nw.jpg)
 
 カンファレンスには、様々な楽しみ方があります。目的も人それぞれでしょう。ですから、初学者であっても自身の学習よりも場の雰囲気を楽しむことを重視する、という姿勢も多いに歓迎されるでしょう。参加者同士のつながり、という得難い財産ともめぐり合うことでしょう。
 

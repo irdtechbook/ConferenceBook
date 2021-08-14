@@ -22,7 +22,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/kane_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         KANE @higuyume https://twitter.com/higuyume\\
@@ -86,7 +86,7 @@ TACO Organizer, カンファレンススタッフなどお手伝いをよくし�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kobase.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/kobase.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         こばせ @kobase555 https://twitter.com/kobase555\\

@@ -24,11 +24,11 @@
 #### ―聴講者にどうなってほしいか、などを教えてください
 デブサミ2021で初めて、デブサミのMission Vision Valueを言語化しました。これまでうまくまとまらなかったのですが、今回オンライン開催するにあたって、「これまでと同様には盛り上がらないのではないか」「協力してもらえないんじゃないか」という不安から、デブサミの社会的意義をとらえなおすことにしました。デブサミは、コミュニティベースのカンファレンスではなく、出版社/Webメディアをやっている企業主催のカンファレンスです。私自身も開発者ではない立場として「どんな意義があるのかな」と考えたとき、出版社が著者の知見の詰まっている書籍を全国の書店、読者の皆さんに届けるがごとく、デブサミも同じように「スピーカーの知見を広く遠くに届ける」役割を果たせるのではないかと考えました。様々な年齢層・会社にいる方、様々な地域にお住まいの方に、経験や情報を届ける役割・場所としたいと考えました。
 
-![デブサミのMission Vision Value 出典：https://event.shoeisha.jp/devsumi ](images/chap-organizer/mvv.png)
+![デブサミのMission Vision Value 出典：https://event.shoeisha.jp/devsumi ](images/chap-organizer/mvv.jpg)
 
 ミッションとして、「デベロッパーをスターにし、世の中のアップデートを加速する」[^star]を設定しました。これは、スピーカーがスターになるのはもちろんですが、セッションに参加した人が様々なデベロッパーの発信から影響を受けて前向きなアクションを取り、身の回りの人たち、会社のチーム、社会、家族、友達などから尊敬・尊重され、デベロッパーがスターとして輝ける、そしてそうした人が増えることで世の中のアップデートを加速するということです。
 
-![近藤さんが考える「デベロッパーをスターに」の一例](images/chap-organizer/img1.png) 
+![近藤さんが考える「デベロッパーをスターに」の一例](images/chap-organizer/img1.jpg) 
 
 [^star]: コロナ禍で開発者向けイベント／講座はいかにオンライン化したか？ Open Developers Conference 2020 Online #opendevcon (2020.12.19) https://speakerdeck.com/kondoyuko/planning-online-events-in-the-time-of-covid-19?slide=21
 
@@ -149,7 +149,7 @@ https://twitter.com/hbstudy
 
 [^agilejapan]: Agile Japan 2021年11月16-17日開催。https://2021.agilejapan.jp/
 
-![Agilejapan 2021](images/chap-organizer/expo.png?scale=0.5)
+![Agilejapan 2021](images/chap-organizer/expo.jpg?scale=0.5)
 
 #### -アジャイルのカンファレンスを2つ運営されているんですね。
 
