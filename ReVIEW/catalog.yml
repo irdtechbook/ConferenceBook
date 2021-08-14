@@ -1,0 +1,19 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+    - chap-objective.md",
+    - chap-entry.md",
+    - chap-preparing-to-attend.md",
+    - chap-on-the-day.md",
+    - chap-on-the-day-interaction.md",
+    - chap-on-the-day-networking.md",
+    - chap-at-a-later-date.md",
+    - chap-at-a-later-date-blog.md",
+    - chap-twitter.md",
+    - chap-cfp.md",
+    - chap-staff.md",
+    - chap-organizer.md"
+
+POSTDEF:
+    - postscript.re
