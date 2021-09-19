@@ -138,7 +138,7 @@ https://internet.watch.impress.co.jp/docs/special/1028211.html
 
 ## 今だから立ち上げた!「あじゃてく」
 
-#### -あやなるさん、こんにちは。よろしくお願いします
+#### ―あやなるさん、こんにちは。よろしくお願いします
 
 こんにちは。Agile Tech EXPO[^agiletechexpo] と Agile Japan[^agilejapan] の運営をしておりますあやなるです。よろしくおねがいします。
 
@@ -148,7 +148,7 @@ https://internet.watch.impress.co.jp/docs/special/1028211.html
 
 ![Agilejapan 2021](images/chap-organizer/expo.jpg)
 
-#### -アジャイルのカンファレンスを2つ運営されているんですね。
+#### ―アジャイルのカンファレンスを2つ運営されているんですね。
 
 はい。特に、Agile Tech EXPOは、コロナ禍にオンラインで立ち上げて、これから育てて行きたいと意気込んでいるカンファレンスです。正式名称がちょっと長いので、「あじゃてく」と略して呼んでください。
 
